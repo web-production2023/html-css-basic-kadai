@@ -1,0 +1,16 @@
+.txt-red {
+  color: red;
+}
+.txt-blue {
+  color: blue;
+}
+h1,h2,p {
+  text-align: center;
+}
+h1 {
+  border-bottom: solid;
+  letter-spacing: 1.2rem;
+}
+#bold {
+  font-style: bold;
+}
